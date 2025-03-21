@@ -1,4 +1,4 @@
-Hi Joe Doe, this is the setup part for this tool:
+Hi John Doe, this is the setup part for this tool:
 
 Recommned python version 3.11.5 or higher ( if available ):
 	Link to install: https://www.python.org/downloads/
